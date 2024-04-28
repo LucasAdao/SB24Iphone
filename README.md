@@ -1,0 +1,2 @@
+## SB24 Iphone
+<p>Então galera, fiz de forma rapidinha, tratei a apple como uma interface, já que é a empresa que operou sobre o celular, e criei uma classe celular implementando as coisas que a apple criou, eu tenho um projeto aqui super completo abstraindo um celular com C# que é bem familiar ao Java, então eu não quis empenhar tanta energia nesse projeto! Mas a lógica tá bem legal, o celular implementa a apple, e ganha as funções que o Iphone chegou dominando o mercado, e no metodo main eu crio um objeto Celular com nome de Iphone pra dar uma sacada mais legal!</p>
